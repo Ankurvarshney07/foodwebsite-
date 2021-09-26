@@ -23,7 +23,7 @@
     height: 100%;
     width: 100%;
     z-index: 10000;
-    background: #fff url('loader.gif')no-repeat;
+    background: #fff url('images/loader.gif')no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
